@@ -1,0 +1,21 @@
+{
+    "description": "Your average Cranford. Farting.", 
+    "image": "https://cranford-nft.s3.amazonaws.com/tokens/0.png", 
+    "name": "Cranfart",
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Splendid"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Health",
+            "value": 100
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Attack",
+            "value": 30
+        }
+    ]
+  }
